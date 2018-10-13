@@ -2,7 +2,7 @@
 #   10/12/2018
 #   Daniel Verdugo
 #   Riad Soliven
-#   Peter
+#   Peter Fink
 
 import pyb
 import utime
